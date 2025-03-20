@@ -17,15 +17,19 @@ County: The county where the crime occurred
 
 Yes Votes: The number of board members voting in favor of the applicant	
 
+Who voted yes?: The identity of the board member who voted for an application, if it was included in the original data
+
+Who voted yes (2)?: The identity of the board member who voted for an application, if it was included in the original data
+
 No Votes: The number of board members voting against the applicant
+
+Who voted no ?: The identity of the board member who voted against an application, if it was included in the original data
+
+Who voted no (2)?: The identity of the board member who voted against an application, if it was included in the original data
 
 Outcome: The outcome of the vote. Spotlight PA added this column
 
 Minority Vote: The type of vote that was in the minority
-
-Who voted yes?: The identity of the board member who voted for an application, if it was included in the original data
-
-Who voted no ?: The identity of the board member who voted against an application, if it was included in the original data
 
 Additional information: Other information and outcomes included in the original board data, or notes added by Spotlight PA
 
