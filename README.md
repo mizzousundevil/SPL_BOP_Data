@@ -1,6 +1,22 @@
 # SPL_BOP_Data
 To improve transparency and accountability, Spotlight PA filed requests under the Right-to-Know Law for data showing every commutation recommendation vote taken by the Board of Pardons in the past 25 years.
 
+# Data dictionary:
+
+Date: The date of the first public hearing in the applicant’s case. Please note, the vote may take place at a subsequent hearing.
+Year: The year of the first public hearing.
+Administration: The governor in office at the time of the vote. Spotlight PA added this column.
+Full name: The name of the applicant
+Commutation type: The sentence the applicant is seeking commutation to shorten
+County: The county where the crime occurred
+Yes Votes: The number of board members voting in favor of the applicant	
+No Votes: The number of board members voting against the applicant
+Outcome: The outcome of the vote. Spotlight PA added this column.
+Minority Vote: The type of vote that was in the minority.
+Who voted yes?: The identity of the board member who voted for an application, if it was included in the original data..
+Who voted no ?: The identity of the board member who voted against an application, if it was included in the original data.
+Additional information: Other information and outcomes included in the original board data, or notes added by Spotlight PA.
+
 
 # How we cleaned this																
 In response to a request under the Right-to-Know Law, the Pennsylvania Board of Pardons provided Spotlight PA with four .xlsx files recording votes taken during public hearings between 2000 and 2025.
