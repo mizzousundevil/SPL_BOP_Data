@@ -64,6 +64,6 @@ People who apply for pardons are seeking to scrub the record of their criminal c
 
 Because of this, Spotlight PA is not publishing pardons data at this time. The newsroom is still considering ways to publish this data without compromising the anonymity of the applicants.
 
-Contact the reporter
+# Contact the reporter
 
 Do you have a question or thought about the data and Board of Pardons? Feel free to contact me at dohl@spotlightpa.org.
